@@ -1,2 +1,1 @@
-# countrystat-cog-ui
-CountrySTAT Congo
+# countrystat-ui
