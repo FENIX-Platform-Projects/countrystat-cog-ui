@@ -7,7 +7,7 @@
 }
 
 .country-details{
-  background-image: url(img/zam-home.jpg);
+  background-image: url(img/cog-home.jpg);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -96,8 +96,8 @@ background-color: $afg-home-background;
       font-weight: 100;
       position: absolute;
       top: 0;
+      padding: 0 0 0 90px;
     }
-
 
     .home-stats-footer{
       height: 100px;
@@ -278,7 +278,7 @@ ol li:before {
   }
 
   .news-image{
-    background-image: url(img/zam-working-group.jpg);
+    background-image: url(img/cog-working-group.jpg);
     background-size: cover;
     background-position: 50% 50%;
     height: 50%;
@@ -294,7 +294,7 @@ ol li:before {
 .home-tile.map{
   background-color: $afg-map-tile;
   position: relative;
-  background-image: url("img/home-map-zambia.svg");
+  background-image: url("img/home-map-congo.svg");
   background-size: 570px 371px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
@@ -339,4 +339,13 @@ ol li:before {
 .home-tile.aims{
   background-color: white;
 
+}
+
+
+.country-flag{
+  width: auto;
+  height: 50px;
+  position: absolute;
+  left: 0;
+  top: 10px;
 }
