@@ -96,5 +96,174 @@
       "EN": "Fishery scientific products"
     },
     "subject": "item"
+  },
+  {
+    "value": "Alphabetisation",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Approvisionement_en_eau",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Classe_de_distance",
+    "text": {
+      "EN": "Fishery"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Difficultés_rencontrées",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Distance",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Equipments_agricoles",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Existence",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Group_Age",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Indicateurs_Recensement",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Main_d'oeuvre",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Matériel",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Mode_de_faire_valoir",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Niveau_Instruction",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Nombre_conjointes",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Nombre_de_champs_possédés",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Nombre_de_pieds",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Objectifs_de_production",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Oui_Non",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Répartition_exploitations",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Route_bitumée",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Situation_Matrimoniale",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Source_éléctricité",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Superficie_cultivée",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
+  },
+  {
+    "value": "Taille_de_menage",
+    "text": {
+      "EN": "Agricultural population"
+    },
+    "subject": "census"
   }
+
 ]
