@@ -98,6 +98,13 @@
     "subject": "item"
   },
   {
+    "value": "Activités_agricoles",
+    "text": {
+      "EN": "Activités agricoles"
+    },
+    "subject": "census"
+  },
+  {
     "value": "Alphabetisation",
     "text": {
       "EN": "Alphabetisation"
