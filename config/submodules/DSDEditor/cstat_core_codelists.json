@@ -2,273 +2,330 @@
   {
     "value": "GAUL|2014",
     "text": {
-      "EN": "GAUL"
+      "EN": "GAUL",
+      "FR": "GAUL FR"
     },
     "subject": "geo"
   },
   {
     "value": "CPC|2.1",
     "text": {
-      "EN": "CPC 2.1"
+      "EN": "CPC 2.1",
+      "FR": "CPC 2.1 FR"
     },
     "subject": "item"
   },
   {
+    "value": "Flag",
+    "text": {
+      "EN": "Flag",
+      "FR": "Flag FR"
+    },
+    "subject": "flag"
+  },
+  {
     "value": "CountrySTAT_Agricultural_Population",
     "text": {
-      "EN": "Agricultural"
+      "EN": "Agricultural",
+      "FR": "Agricultural FR"
     },
     "subject": "agriculturalPopulation"
   },
   {
     "value": "CountrySTAT_DAC",
     "text": {
-      "EN": "DAC"
+      "EN": "DAC",
+      "FR": "DAC FR"
     },
     "subject": "sector"
   },
   {
     "value": "CountrySTAT_Field_Management",
     "text": {
-      "EN": "Field Management"
+      "EN": "Field Management",
+      "FR": "Field Management FR"
     },
     "subject": "fieldManagement"
   },
   {
     "value": "CountrySTAT_Food",
     "text": {
-      "EN": "Food"
+      "EN": "Food",
+      "FR": "Food FR"
     },
     "subject": "food"
   },
   {
     "value": "CountrySTAT_Gender",
     "text": {
-      "EN": "Gender"
+      "EN": "Gender",
+      "FR": "Gender FR"
     },
     "subject": "gender"
   },
   {
     "value": "CountrySTAT_Residence",
     "text": {
-      "EN": "Residence"
+      "EN": "Residence",
+      "FR": "Residence FR"
     },
     "subject": "residence"
   },
   {
     "value": "CountrySTAT_Indicators",
     "text": {
-      "EN": "CountrySTAT Indicators"
+      "EN": "CountrySTAT Indicators",
+      "FR": "CountrySTAT Indicators FR"
     },
     "subject": "indicator"
   },
   {
     "value": "HS|full",
     "text": {
-      "EN": "HS Full"
+      "EN": "HS Full",
+      "FR": "HS Full FR"
     },
     "subject": "item"
   },
   {
     "value": "CountrySTAT_UM",
     "text": {
-      "EN": "CountrySTAT UM"
+      "EN": "CountrySTAT UM",
+      "FR": "CountrySTAT UM FR"
     },
     "subject": "um"
   },
   {
     "value": "CountrySTAT_Fishery_products",
     "text": {
-      "EN": "Fishery products"
+      "EN": "Fishery products",
+      "FR": "Fishery products FR"
     },
     "subject": "item"
   },
   {
     "value": "CountrySTAT_Forest_products",
     "text": {
-      "EN": "Forest products"
+      "EN": "Forest products",
+      "FR": "Forest products FR"
     },
     "subject": "item"
   },
   {
     "value": "CountrySTAT_Fishery_products_scientific",
     "text": {
-      "EN": "Fishery scientific products"
+      "EN": "Fishery scientific products",
+      "FR": "Fishery scientific products FR"
     },
     "subject": "item"
   },
   {
     "value": "Activités_agricoles",
     "text": {
-      "EN": "Activités agricoles"
+      "EN": "Activités agricoles",
+      "FR": "Activités agricoles"
     },
     "subject": "census"
   },
   {
+    "value": "Activités_forestières",
+    "text": {
+      "EN": "Activités forestières",
+      "FR": "Activités forestières"
+    },
+    "subject": "census"
+  },
+
+
+  {
     "value": "Alphabetisation",
     "text": {
-      "EN": "Alphabetisation"
+      "EN": "Alphabetisation",
+      "FR": "Alphabetisation"
     },
     "subject": "census"
   },
   {
     "value": "Approvisionement_en_eau",
     "text": {
-      "EN": "Approvisionement en eau"
+      "EN": "Approvisionement en eau",
+      "FR": "Approvisionement en eau"
     },
     "subject": "census"
   },
   {
     "value": "Classe_de_distance",
     "text": {
-      "EN": "Classe de distance"
+      "EN": "Classe de distance",
+      "FR": "Classe de distance"
     },
     "subject": "census"
   },
   {
     "value": "Difficultés_rencontrées",
     "text": {
-      "EN": "Difficultés rencontrées"
+      "EN": "Difficultés rencontrées",
+      "FR": "Difficultés rencontrées"
     },
     "subject": "census"
   },
   {
     "value": "Distance",
     "text": {
-      "EN": "Distance"
+      "EN": "Distance",
+      "FR": "Distance"
     },
     "subject": "census"
   },
   {
     "value": "Equipments_agricoles",
     "text": {
-      "EN": "Equipments agricoles"
+      "EN": "Equipments agricoles",
+      "FR": "Equipments agricoles"
     },
     "subject": "census"
   },
   {
     "value": "Existence",
     "text": {
-      "EN": "Existence"
+      "EN": "Existence",
+      "FR": "Existence"
     },
     "subject": "census"
   },
   {
     "value": "Group_Age",
     "text": {
-      "EN": "Group Age"
+      "EN": "Group Age",
+      "FR": "Group Age"
     },
     "subject": "census"
   },
   {
     "value": "Indicateurs_Recensement",
     "text": {
-      "EN": "Indicateurs Recensement"
+      "EN": "Indicateurs Recensement",
+      "FR": "Indicateurs Recensement"
     },
     "subject": "census"
   },
   {
-    "value": "Main d'oeuvre",
+    "value": "Main_d'oeuvre",
     "text": {
-      "EN": "Main_d'oeuvre"
+      "EN": "Main d'oeuvre",
+      "FR": "Main d'oeuvre"
     },
     "subject": "census"
   },
   {
     "value": "Matériel",
     "text": {
-      "EN": "Matériel"
+      "EN": "Matériel",
+      "FR": "Matériel"
     },
     "subject": "census"
   },
   {
     "value": "Mode_de_faire_valoir",
     "text": {
-      "EN": "Mode de faire valoir"
+      "EN": "Mode de faire valoir",
+      "FR": "Mode de faire valoir"
     },
     "subject": "census"
   },
   {
     "value": "Niveau_Instruction",
     "text": {
-      "EN": "Niveau Instruction"
+      "EN": "Niveau Instruction",
+      "FR": "Niveau Instruction"
     },
     "subject": "census"
   },
   {
     "value": "Nombre_conjointes",
     "text": {
-      "EN": "Nombre conjointes"
+      "EN": "Nombre conjointes",
+      "FR": "Nombre conjointes"
     },
     "subject": "census"
   },
   {
     "value": "Nombre_de_champs_possédés",
     "text": {
-      "EN": "Nombre de champs possédés"
+      "EN": "Nombre de champs possédés",
+      "FR": "Nombre de champs possédés"
     },
     "subject": "census"
   },
   {
     "value": "Nombre_de_pieds",
     "text": {
-      "EN": "Nombre de pieds"
+      "EN": "Nombre de pieds",
+      "FR": "Nombre de pieds"
     },
     "subject": "census"
   },
   {
     "value": "Objectifs_de_production",
     "text": {
-      "EN": "Objectifs de production"
+      "EN": "Objectifs de production",
+      "FR": "Objectifs de production"
     },
     "subject": "census"
   },
   {
     "value": "Oui_Non",
     "text": {
-      "EN": "Oui Non"
+      "EN": "Oui Non EN",
+      "FR": "Oui Non"
     },
     "subject": "census"
   },
   {
     "value": "Répartition_exploitations",
     "text": {
-      "EN": "Répartition exploitations"
+      "EN": "Répartition exploitations EN",
+      "FR": "Répartition exploitations"
     },
     "subject": "census"
   },
   {
     "value": "Route_bitumée",
     "text": {
-      "EN": "Route bitumée"
+      "EN": "Route bitumée EN",
+      "FR": "Route bitumée"
     },
     "subject": "census"
   },
   {
     "value": "Situation_Matrimoniale",
     "text": {
-      "EN": "Situation Matrimoniale"
+      "EN": "Situation Matrimoniale EN",
+      "FR": "Situation Matrimoniale"
     },
     "subject": "census"
   },
   {
     "value": "Source_éléctricité",
     "text": {
-      "EN": "Source éléctricité"
+      "EN": "Source éléctricité EN",
+      "FR": "Source éléctricité"
     },
     "subject": "census"
   },
   {
     "value": "Superficie_cultivée",
     "text": {
-      "EN": "Superficie cultivée"
+      "EN": "Superficie cultivée EN",
+      "FR": "Superficie cultivée"
     },
     "subject": "census"
   },
   {
     "value": "Taille_de_menage",
     "text": {
-      "EN": "Taille de menage"
+      "EN": "Taille de menage EN",
+      "FR": "Taille de menage"
     },
     "subject": "census"
   }
