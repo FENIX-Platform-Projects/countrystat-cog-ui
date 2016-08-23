@@ -19,6 +19,9 @@ define(['jquery', 'fx-submodules/config/baseConfig'],
         var cfg = {};
         $.extend(cfg, config_base);
 
+        cfg.LANG = "FR";
+        cfg.LOCALE = "fr_FR";
+
         cfg.TOP_MENU = {
             url: '../../../config/submodules/fx-menu/topmenu_config.json',
             container: '#sidebar-wrapper',

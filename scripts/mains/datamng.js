@@ -3,7 +3,6 @@
 require([
     '../../submodules/fenix-ui-common/js/Compiler',
     '../../submodules/fenix-ui-common/js/paths',
-    '../../submodules/fenix-ui-datamanagement-commons/js/paths',
     '../../submodules/fenix-ui-DataEditor/js/paths',
     '../../submodules/fenix-ui-DSDEditor/js/paths',
     '../../submodules/fenix-ui-metadata-editor/js/paths',
@@ -11,15 +10,12 @@ require([
     '../../submodules/fenix-ui-menu/src/js/paths',
     '../../submodules/fenix-ui-data-management/src/js/paths',
     '../../submodules/fenix-ui-filter/src/js/paths'
-], function (Compiler, FenixCommons, DataMngCommons, DataEditor, DSDEditor, MetadataEditor, Catalog, Menu, DataMng, Filter) {
+], function (Compiler, FenixCommons, DataEditor, DSDEditor, MetadataEditor, Catalog, Menu, DataMng, Filter) {
 
     'use strict';
 
     var dataEditorConfig = DataEditor;
     dataEditorConfig.baseUrl = '../../submodules/fenix-ui-DataEditor/js';
-
-    var dataMngCommonsConfig = DataMngCommons;
-    dataMngCommonsConfig['baseUrl'] = '../../submodules/fenix-ui-datamanagement-commons/js';
 
     var dsdEditorConfig = DSDEditor;
     dsdEditorConfig.baseUrl = '../../submodules/fenix-ui-DSDEditor/js';
@@ -42,13 +38,13 @@ require([
     var filterConfig = Filter;
     filterConfig.baseUrl = '../../submodules/fenix-ui-filter/src/js/';
 
-    Compiler.resolve([dataEditorConfig, dataMngCommonsConfig, dsdEditorConfig, metadataEditorConfig, catalogConfig, menuConfig, dataMngConfig, fenixCommonConfig, filterConfig],
+    Compiler.resolve([dataEditorConfig, dsdEditorConfig, metadataEditorConfig, catalogConfig, menuConfig, dataMngConfig, fenixCommonConfig, filterConfig],
         {
             placeholders: {"FENIX_CDN": "//fenixrepo.fao.org/cdn"},
             config: {
                 waitSeconds : 30,
 
-                locale: 'en',
+                locale: 'fr',
 
                 // Specify the paths of vendor libraries
                 paths: {
@@ -118,8 +114,6 @@ require([
 
         var authMAnager = new AuthManager();
         if(authMAnager.isLogged()) {
-
-
             var app = new Application({
                 routes: routes,
                 controllerSuffix: '-controller',
