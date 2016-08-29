@@ -18,5 +18,29 @@
   "guest@fao.org": {
     "name": "Guest",
     "password": "guest"
+  },
+  "admin@fenix.org" : {
+    "name" : "admin@fenix.org",
+    "password" : "fenix_admin"
+  },
+  "ouadika@yahoo.fr":{
+    "name":"ouadika@yahoo.fr",
+    "password" : "3101"
+  },
+  "davynayoka@gmail.com":{
+    "name":"davynayoka@gmail.com",
+    "password" : "1985dav"
+  },
+  "gaely.moussoundi@gmail.com":{
+    "name":"gaely.moussoundi@gmail.com",
+    "password" : "Adler217@"
+  },
+  "kibirima12@gmail.com":{
+    "name":"kibirima12@gmail.com",
+    "password" : "gualbert1r"
+  },
+  "gael.kiak@gmail.com":{
+    "name":"gael.kiak@gmail.com",
+    "password" : "calcione86"
   }
 }

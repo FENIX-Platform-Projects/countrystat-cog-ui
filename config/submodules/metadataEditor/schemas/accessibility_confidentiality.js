@@ -1,4 +1,4 @@
-﻿define(['fx-MetaEditor2/codelists/ClCodelist'], function (CLCodelist) {
+﻿define(['fx-MetaEditor/codelists/ClCodelist'], function (CLCodelist) {
     //'use strict'
 
     return {

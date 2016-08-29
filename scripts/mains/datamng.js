@@ -5,7 +5,7 @@ require([
     '../../submodules/fenix-ui-common/js/paths',
     '../../submodules/fenix-ui-DataEditor/js/paths',
     '../../submodules/fenix-ui-DSDEditor/js/paths',
-    '../../submodules/fenix-ui-metadata-editor/js/paths',
+    '../../submodules/fenix-ui-metadata-editor/src/js/paths',
     '../../submodules/fenix-ui-catalog/src/js/paths',
     '../../submodules/fenix-ui-menu/src/js/paths',
     '../../submodules/fenix-ui-data-management/src/js/paths',
@@ -52,7 +52,7 @@ require([
                     backbone: "{FENIX_CDN}/js/backbone/1.1.2/backbone.min",
                     //handlebars: "{FENIX_CDN}/js/handlebars/2.0.0/handlebars",
                     //MOVE ON THE CDN!!!
-                    handlebars: "../../submodules/fenix-ui-metadata-editor/lib/handlebars",
+                    handlebars: "{FENIX_CDN}/js/handlebars/4.0.5/handlebars.min",
                     chaplin: "{FENIX_CDN}/js/chaplin/1.0.1/chaplin.min",
                     amplify: '{FENIX_CDN}/js/amplify/1.1.2/amplify.min',
                     rsvp: '{FENIX_CDN}/js/rsvp/3.0.17/rsvp',

@@ -26,7 +26,7 @@
             "updatePeriodicity": {
                 "helper": "Time span between the completion of the production process of statistical data and their publication.",
                 "type": "select",
-                "dataSource": "./submodules/fenix-ui-metadata-editor/config/CL/CL_FAO_Period.json"
+                "dataSource": "./submodules/fenix-ui-metadata-editor/src/config/CL/CL_FAO_Period.json"
             }
         }
     }
