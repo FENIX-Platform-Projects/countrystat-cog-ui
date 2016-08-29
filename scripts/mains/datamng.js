@@ -3,7 +3,7 @@
 require([
     '../../submodules/fenix-ui-common/js/Compiler',
     '../../submodules/fenix-ui-common/js/paths',
-    '../../submodules/fenix-ui-DataEditor/js/paths',
+    '../../submodules/fenix-ui-DataEditor/src/js/paths',
     '../../submodules/fenix-ui-DSDEditor/src/js/paths',
     '../../submodules/fenix-ui-metadata-editor/src/js/paths',
     '../../submodules/fenix-ui-catalog/src/js/paths',
