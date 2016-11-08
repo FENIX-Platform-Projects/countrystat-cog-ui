@@ -203,6 +203,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small
   }
 
 
+
 .page-content-toolbar{
   height: 50px;
   background-color: white;
@@ -210,6 +211,18 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small
   top: 0;
   position: fixed;
   width: 100%;
+
+
+  /* Default */
+
+  @media (min-width: 768px) {
+
+    width: calc(100% - 250px);
+
+  }
+
+
+
 
   &:after{
     content: '';
@@ -232,9 +245,30 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small
     color: $fenix-text;
     font-size: 40px;
     padding: 0;
+
+
+    &.active, &:active, &:hover, &:active:hover, &:active:focus, &:focus{
+      background-color: transparent;
+      @include fx-noshadow;
+    }
+
+
   }
 
 }
+
+
+.toggled{
+
+  .page-content-toolbar {
+    width: 100%;
+  }
+
+}
+
+
+
+
 
 
 .catalog-ico.img-responsive{
