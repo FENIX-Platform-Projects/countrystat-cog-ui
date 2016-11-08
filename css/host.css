@@ -22,7 +22,6 @@
   left: 250px;
   width: 0;
   height: 100%;
-  overflow-x: hidden;
   margin-left: -250px;
   overflow-y: auto;
   background: #000;
@@ -5288,6 +5287,9 @@ button_new_2:before {
 
 .fa-caret-right:before {
   content: ""; }
+
+.fa-sort:before {
+  content: ""; }
 
 .fa-rss-square:before {
   content: ""; }
